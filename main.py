@@ -2,6 +2,7 @@ import sys
 import torch
 from transformers import AutoModelForCausalLM, AutoTokenizer
 
+
 def main():
     if len(sys.argv) < 2:
         print("Usage: python llm.py 'your prompt here'")
