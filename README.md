@@ -6,6 +6,7 @@ Phi-2 has around ***2.7 billion parameters***, making it much smaller than front
 
 Phi-2 serves as a foundation for research, education, and lightweight applications where efficiency and accessibility are critical.
 
+**Note** p3 is an alias for python 
 
 
 
