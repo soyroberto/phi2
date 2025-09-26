@@ -28,6 +28,7 @@ def main():
     else:
         device = args.device
 
+
     # Dtype selection logic
     if args.dtype:
         dtype = torch.float16 if args.dtype == 'float16' else torch.float32
